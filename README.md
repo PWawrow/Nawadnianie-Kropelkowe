@@ -29,7 +29,7 @@ System wykorzystuje:
 ## Technologie
 - **Układ sterowania:** stycznikowy  
 - **Elementy wykonawcze:** pompa, zawory  
-- **Sensory:** wykrywanie poziomu wody w zbiornikach  
+- **Sensory:** czujniki pływakowe w zbiornikach, czujnik cisnienia do wykrycia poprawnego pompowania  
 
 ## Możliwości rozwoju
 - Integracja z systemem IoT w celu monitorowania i sterowania nawadnianiem zdalnie.
